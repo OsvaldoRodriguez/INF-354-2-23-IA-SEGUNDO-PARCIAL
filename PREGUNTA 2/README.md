@@ -14,12 +14,12 @@
 
 ![](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-SEGUNDO-PARCIAL/blob/master/PREGUNTA%202/1raGen.PNG)
 
-### 1ra Generación
+### 2ra Generación
 
 
 ![](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-SEGUNDO-PARCIAL/blob/master/PREGUNTA%202/2daGen.PNG)
 
-### 1ra Generación
+### 3ra Generación
 
 
 ![](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-SEGUNDO-PARCIAL/blob/master/PREGUNTA%202/3raGen.PNG)
