@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Oct 25 11:29:13 2023
-
-@author: AREA BASE DE DATOS
+Created on Tue Oct 24 11:47:42 2023
+@author: Fury
 """
 
 import random
