@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct 24 11:47:42 2023
-@author: Fury
+Created on Wed Oct 25 11:29:13 2023
+
+@author: AREA BASE DE DATOS
 """
 
 import random
@@ -64,10 +65,11 @@ def main(seed = 0):
 
 if __name__ == "__main__":
     pop, stats, hof = main()
-    print(evalAgente(hof[0]))
-    print(hof)
+    print(matriz)
+    print("Minima Distancia", evalAgente(hof[0]))
+    print("Mejor Camino", hof)
     nombre_archivo = 'mejor_recorrido_algoritmo_genetico_deap.csv'
-
+    
     with open(nombre_archivo, mode='w', newline='') as archivo_csv:
         escritor_csv = csv.writer(archivo_csv)
         escritor_csv.writerows(hof)
