@@ -5,11 +5,11 @@
 
 ### Solución
 
-[Código Python]()
+[Código Python](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-SEGUNDO-PARCIAL/blob/master/PREGUNTA%201/red_neuronal_iris.py)
 
 ### Ejecución
 
-![]()
+![](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-SEGUNDO-PARCIAL/blob/master/PREGUNTA%201/cap1.PNG)
 
 
-![]()
+![](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-SEGUNDO-PARCIAL/blob/master/PREGUNTA%201/cap2.PNG)
