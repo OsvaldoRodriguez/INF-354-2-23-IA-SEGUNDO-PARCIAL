@@ -10,6 +10,11 @@
     * para la Mutación solo se aplica XOR al bit en la posicion 4 (izq a der index 1)
     * se simula 3 generaciones del mismo
 
+
+### Solución
+
+[Documento Excel](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-SEGUNDO-PARCIAL/blob/master/PREGUNTA%202/SOLUCION%20REQUEST%202.xlsx)
+
 ### 1ra Generación
 
 ![](https://github.com/OsvaldoRodriguez/INF-354-2-23-IA-SEGUNDO-PARCIAL/blob/master/PREGUNTA%202/1raGen.PNG)
